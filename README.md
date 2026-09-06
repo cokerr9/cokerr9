@@ -6,25 +6,26 @@ Build Software for cokerr.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/chhorvin9e) 
 
 #### Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
+[![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 #### GitHub Stats:
 | | |
 | :-: | :-: |
-| <img width="100%" src="https://github-readme-stats.shion.dev/api?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> | <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> |
+| <a href="https://github.com/cokerr9"><img width="100%" src="https://github-readme-stats.shion.dev/api?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></a> | <a href="https://github.com/cokerr9"><img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=cokerr9&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cokerr9&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)](https://github.com/cokerr9)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
