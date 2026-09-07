@@ -17,11 +17,17 @@ Build Software for cokerr.
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 #### GitHub Stats:
-[![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)](https://github.com/cokerr9)<br/>
+<a href="https://github.com/cokerr9">
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" />
+</a><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cokerr9&theme=default&hide_border=false)](https://git.io/streak-stats)<br/>
+<a href="https://git.io/streak-stats">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=cokerr9&theme=default&hide_border=false" />
+</a><br/>
 
-[![Most Used Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)](https://github.com/cokerr9)
+<a href="https://github.com/cokerr9">
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" />
+</a>
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)](https://github.com/cokerr9)
