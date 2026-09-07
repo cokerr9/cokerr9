@@ -13,15 +13,18 @@ Build Software for cokerr.
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
-[![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![CLI](https://img.shields.io/badge/CLI-2D3748?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 #### GitHub Stats:
-| | |
-| :-: | :-: |
-| <a href="https://github.com/cokerr9"><img width="100%" src="https://github-readme-stats.shion.dev/api?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></a> | <a href="https://github.com/cokerr9"><img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
-
-<br/>
+<p align="left">
+  <a href="https://github.com/cokerr9">
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+  <a href="https://github.com/cokerr9">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cokerr9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cokerr9&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 
