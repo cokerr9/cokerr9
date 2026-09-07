@@ -17,7 +17,7 @@ Build Software for cokerr.
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 #### GitHub Stats:
-[![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)](https://github.com/cokerr9)
+[![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&card_width=525&cache_seconds=1800)](https://github.com/cokerr9)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cokerr9&theme=default&hide_border=false)](https://git.io/streak-stats)
 
