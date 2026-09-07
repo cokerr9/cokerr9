@@ -25,9 +25,7 @@ Build Software for cokerr.
   <img width="100%" src="https://streak-stats.demolab.com/?user=cokerr9&theme=default&hide_border=false" />
 </a><br/>
 
-<a href="https://github.com/cokerr9">
-  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&cache_seconds=1800" />
-</a>
+[![Most Used Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)](https://github.com/cokerr9)
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)](https://github.com/cokerr9)
