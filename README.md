@@ -17,7 +17,7 @@ Build Software for cokerr.
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 #### GitHub Stats:
-<div style="max-width: 480px;">
+<p align="left">
   <a href="https://github.com/cokerr9">
     <img width="480" src="https://github-readme-stats-salesp07.vercel.app/api?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" />
   </a><br/>
@@ -27,9 +27,9 @@ Build Software for cokerr.
   </a><br/>
 
   <a href="https://github.com/cokerr9">
-    <img width="480" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" />
+    <img width="480" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&card_width=480&cache_seconds=1800" />
   </a>
-</div>
+</p>
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)](https://github.com/cokerr9)
