@@ -6,17 +6,12 @@ Build Software for cokerr.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/chhorvin9e) 
 
 #### Tech Stack:
-[![C](https://img.shields.io/badge/-%2300599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
-[![CLI](https://img.shields.io/badge/CLI-2D3748?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
-[![Most Used Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)](https://github.com/cokerr9)
 
----
-[![Profile Views](https://komarev.com/ghpvc/?username=cokerr9&color=blue)](https://github.com/cokerr9)
+![python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/--00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/--3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CLI](https://img.shields.io/badge/--000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/--4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
