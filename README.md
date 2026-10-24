@@ -7,15 +7,14 @@ Build Software for cokerr.
 
 #### Tech Stack:
 
-#### Tech Stack:
-
 ![python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) <br />
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=oracle)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-000000?style=flat-square&logo=google-chrome&logoColor=white)
+
 
 
 [![Most Used Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cokerr9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)](https://github.com/cokerr9)
